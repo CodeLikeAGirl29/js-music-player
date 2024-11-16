@@ -18,5 +18,4 @@ This music player solution emphasizes **functional interactivity**, leveraging J
 
 ![Screenshot](https://res.cloudinary.com/dhw9dl4gm/image/upload/v1731750090/music-player-app-devchallenges-netlify-app-11-15-2024_10_43_PM_kqr1v2.png)
 
-![Mobile](https://res.cloudinary.com/dhw9dl4gm/image/upload/v1731750176/iPhone-13-PRO-MAX-music-player-app-devchallenges.netlify.app_hrtoav.png)
-
+<img src="https://res.cloudinary.com/dhw9dl4gm/image/upload/v1731750176/iPhone-13-PRO-MAX-music-player-app-devchallenges.netlify.app_hrtoav.png" alt="Alt Text" width="375" height="800">
